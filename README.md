@@ -1,4 +1,4 @@
-Hello, I'm Oscar
+Hello, I'm Andrea
 
 ## 🚀 Portfolio Projects:
 
@@ -16,7 +16,7 @@ Hello, I'm Oscar
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-madegwa-528986289) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23226869/madegwa-o) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/oscar_made29969) 
+
 
 <div> 
   <a href = "mailto:madegwaoscar317@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
